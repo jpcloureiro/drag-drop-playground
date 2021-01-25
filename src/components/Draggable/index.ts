@@ -1,1 +1,1 @@
-export { default } from './Draggable'
+export {Axis, Draggable} from './Draggable';
